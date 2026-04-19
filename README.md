@@ -24,4 +24,7 @@ I am a **Computer Science Student** with a deep interest in **Data Science** and
 [Linekdin](https://www.linkedin.com/in/m-taha-nauman-94b397362)
 [Email](mailto:mtahanauman90@gmail.com)
 
+### Github Statistics
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaNauman&show_icons=true&theme=radical)
+
 -----
