@@ -21,7 +21,7 @@ I am a **Computer Science Student** with a deep interest in **Data Science** and
 
 ### 📫 Connect with Me
 
-[Linekdin](www.linkedin.com/in/m-taha-nauman-94b397362)
-[Email](mtahanauman90@gmail.com)
+[Linekdin](https://www.linkedin.com/in/m-taha-nauman-94b397362)
+[Email](mailto:mtahanauman90@gmail.com)
 
 -----
