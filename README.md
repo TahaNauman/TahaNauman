@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm M.Taha Nauman! 👋
 
-<!--
-**TahaNauman/TahaNauman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science Student** with a deep interest in **Data Science** and automation. I enjoy turning complex data into actionable insights and building tools that make information more accessible.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * **Languages:** Python, SQL, C, C++, JavaScript
+  * **Frameworks:** Frappe Framework
+  * **Tools & Technologies:** Git, Docker, Selenium
+
+### 🚀 Featured Projects
+
+**[Data Science Portfolio](https://github.com/TahaNauman/Data-Science-Projects)**
+
+  * A collection of projects focused on data analysis, visualization, and machine learning.
+
+**[Modular Web Scraper](https://github.com/TahaNauman/Web_Scraper)**
+
+  * A Python-based scraping system designed to handle both static and dynamic content using Selenium.
+  * Features multi-format data export and automated pagination logic.
+
+### 📫 Connect with Me
+
+[Linekdin](www.linkedin.com/in/m-taha-nauman-94b397362)
+[Email](mtahanauman90@gmail.com)
+
+-----
