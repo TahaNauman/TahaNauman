@@ -19,12 +19,15 @@ I am a **Computer Science Student** with a deep interest in **Data Science** and
   * A Python-based scraping system designed to handle both static and dynamic content using Selenium.
   * Features multi-format data export and automated pagination logic.
 
+
+### Github Statistics
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaNauman&layout=compact&theme=vision-friendly-dark)
+
 ### 📫 Connect with Me
 
 [Linekdin](https://www.linkedin.com/in/m-taha-nauman-94b397362)
 [Email](mailto:mtahanauman90@gmail.com)
 
-### Github Statistics
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaNauman&show_icons=true&theme=radical&include_all_commits=true)
 
 -----
