@@ -22,7 +22,7 @@ I am a **Computer Science Student** with a deep interest in **Data Science** and
 
 ### Github Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaNauman&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M.TahaNauman&layout=compact&theme=vision-friendly-dark)
 
 ### 📫 Connect with Me
 
