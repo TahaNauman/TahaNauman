@@ -1,14 +1,14 @@
-# Hi there, I'm M.Taha Nauman! 👋
+# Hi there, I'm M.Taha Nauman!
 
 I am a **Computer Science Student** with a deep interest in **Data Science** and automation. I enjoy turning complex data into actionable insights and building tools that make information more accessible.
 
-### 🛠 Tech Stack
+### Tech Stack
 
   * **Languages:** Python, SQL, C, C++, JavaScript
   * **Frameworks:** Frappe Framework
   * **Tools & Technologies:** Git, Docker, Selenium
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **[Data Science Portfolio](https://github.com/TahaNauman/Data-Science-Projects)**
 
@@ -19,10 +19,16 @@ I am a **Computer Science Student** with a deep interest in **Data Science** and
   * A Python-based scraping system designed to handle both static and dynamic content using Selenium.
   * Features multi-format data export and automated pagination logic.
 
+**[Pokémon Team Builder](https://github.com/TahaNauman/Pokemon_Team_Builder)**
 
+- A rule-based team recommendation system built in Python that suggests optimal Pokémon teams based on starter choice, regional Pokémon availability, and type coverage logic.
+- Features a PyQt6 GUI with live sprite rendering via PokéAPI, gym leader and Elite Four aware scoring, Mega Evolution selection, and a quantifiable team quality evaluation metric.
+
+<!--- 
 ### Github Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaNauman&layout=compact&theme=vision-friendly-dark)
+--->
 
 ### 📫 Connect with Me
 
