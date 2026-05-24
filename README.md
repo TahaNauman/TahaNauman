@@ -6,7 +6,7 @@ I am a **Computer Science Student** with a deep interest in **Data Science** and
 
   * **Languages:** Python, SQL, C, C++, JavaScript
   * **Frameworks:** Frappe Framework
-  * **Tools & Technologies:** Git, Docker, Selenium
+  * **Tools & Technologies:** Git, Docker, Playwright
 
 ### Featured Projects
 
@@ -16,7 +16,7 @@ I am a **Computer Science Student** with a deep interest in **Data Science** and
 
 **[Modular Web Scraper](https://github.com/TahaNauman/Web_Scraper)**
 
-  * A Python-based scraping system designed to handle both static and dynamic content using Selenium.
+  * A Python-based scraping system designed to handle both static and dynamic content using Playwright.
   * Features multi-format data export and automated pagination logic.
 
 **[Pokémon Team Builder](https://github.com/TahaNauman/Pokemon_Team_Builder)**
