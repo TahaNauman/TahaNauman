@@ -31,3 +31,5 @@ I am a **Computer Science Student** with a deep interest in **Data Science** and
 
 
 -----
+
+![Snake animation](https://github.com/TahaNauman/TahaNauman/blob/output/github-contribution-grid-snake.svg)
